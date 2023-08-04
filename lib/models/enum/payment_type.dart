@@ -1,0 +1,1 @@
+enum PaymentType { CASH, BANKING }
